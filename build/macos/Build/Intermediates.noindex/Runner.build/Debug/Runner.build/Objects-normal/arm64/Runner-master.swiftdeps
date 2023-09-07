@@ -1,8 +1,8 @@
 version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
 options: "c86da59d94b88b7b73c60cfb1e1b26e56c227befdbeaaf2ef06b5782edd71961"
-build_start_time: [1694049880, 299739000]
-build_end_time: [1694049882, 780279000]
+build_start_time: [1694057276, 357303000]
+build_end_time: [1694057280, 275256000]
 inputs:
-  "/Users/josuealcivar/Documents/Apps/pixel_adventure/macos/Flutter/GeneratedPluginRegistrant.swift": [1694049872, 127939866]
+  "/Users/josuealcivar/Documents/Apps/pixel_adventure/macos/Flutter/GeneratedPluginRegistrant.swift": [1694057266, 537206853]
   "/Users/josuealcivar/Documents/Apps/pixel_adventure/macos/Runner/AppDelegate.swift": [1694045413, 4281905]
   "/Users/josuealcivar/Documents/Apps/pixel_adventure/macos/Runner/MainFlutterWindow.swift": [1694045413, 7332629]

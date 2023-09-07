@@ -1,6 +1,5 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-
 import 'package:flame/components.dart';
 import 'package:flame/events.dart';
 import 'package:flame/game.dart';
@@ -9,6 +8,7 @@ import 'package:flutter/painting.dart';
 import 'package:pixel_adventure/components/jump_button.dart';
 import 'package:pixel_adventure/components/player.dart';
 import 'package:pixel_adventure/components/level.dart';
+import 'package:flame_audio/flame_audio.dart'; // Import the package
 
 class PixelAdventure extends FlameGame
     with
@@ -31,7 +31,7 @@ class PixelAdventure extends FlameGame
   FutureOr<void> onLoad() async {
     // Load all images into cache
     await images.loadAllImages();
-
+    startBgmMusic();
     _loadLevel();
 
     if (showControls) {
@@ -48,6 +48,15 @@ class PixelAdventure extends FlameGame
       updateJoystick();
     }
     super.update(dt);
+  }
+
+  void startBgmMusic() {
+    FlameAudio.bgm.initialize();
+    //if music is play stop and reload
+    if (FlameAudio.bgm.isPlaying) {
+      FlameAudio.bgm.stop();
+    }
+    FlameAudio.bgm.play('background.mp3');
   }
 
   void addJoystick() {
