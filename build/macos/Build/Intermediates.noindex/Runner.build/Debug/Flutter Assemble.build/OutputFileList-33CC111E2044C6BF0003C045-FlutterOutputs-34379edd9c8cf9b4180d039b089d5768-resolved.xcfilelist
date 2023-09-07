@@ -4,11 +4,14 @@
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/AssetManifest.json
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/FontManifest.json
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/NOTICES.Z
+/Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/audio/background.mp3
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/audio/bounce.wav
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/audio/collect_fruit.wav
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/audio/disappear.wav
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/audio/hit.wav
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/audio/jump.wav
+/Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/images/20%20Enemies.png
+/Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/images/8bit-mint.png
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/images/Background/Blue.png
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/images/Background/Brown.png
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/images/Background/Gray.png
@@ -22,6 +25,7 @@
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/images/HUD/Joystick.png
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/images/HUD/JumpButton.png
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/images/HUD/Knob.png
+/Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/images/Hello.png
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/images/Items/Checkpoints/Checkpoint/Checkpoint%20(Flag%20Idle)(64x64).png
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/images/Items/Checkpoints/Checkpoint/Checkpoint%20(Flag%20Out)%20(64x64).png
 /Users/josuealcivar/Documents/Apps/pixel_adventure/build/macos/Build/Products/Debug/App.framework/Versions/A/Resources/flutter_assets/assets/images/Items/Checkpoints/Checkpoint/Checkpoint%20(No%20Flag).png
