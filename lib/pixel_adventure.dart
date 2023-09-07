@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'package:flutter/material.dart';
 
 import 'package:flame/components.dart';
 import 'package:flame/events.dart';
@@ -20,7 +21,7 @@ class PixelAdventure extends FlameGame
   late CameraComponent cam;
   Player player = Player(character: 'Virtual Guy');
   late JoystickComponent joystick;
-  bool showControls = true;
+  bool showControls = false;
   bool playSounds = true;
   double soundVolume = 1.0;
   List<String> levelNames = ['Level-01', 'Level-01'];

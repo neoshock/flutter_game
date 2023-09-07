@@ -1,0 +1,15 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-macos ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/media_kit_video.framework/Versions/A/media_kit_video'
+swift-abi-version: 7
+exports:
+  - targets:         [ arm64-macos ]
+    symbols:         [ '_$s15media_kit_video19MediaKitVideoPluginC8register4withySo07FlutterG9Registrar_p_tFZ', 
+                       '_$s15media_kit_video19MediaKitVideoPluginCACycfC', '_$s15media_kit_video19MediaKitVideoPluginCACycfc', 
+                       '_$s15media_kit_video19MediaKitVideoPluginCMa', '_$s15media_kit_video19MediaKitVideoPluginCMn', 
+                       '_$s15media_kit_video19MediaKitVideoPluginCN', '_$s15media_kit_video19MediaKitVideoPluginCfD', 
+                       _media_kit_videoVersionNumber, _media_kit_videoVersionString ]
+    objc-classes:    [ PodsDummy_media_kit_video, _TtC15media_kit_video19MediaKitVideoPlugin ]
+...

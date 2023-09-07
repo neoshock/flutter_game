@@ -23,10 +23,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			G+zyBHFlT2xzAj1qPhg+xAF/zAs=
+			3114WAUhSVc47KkExlC9itIRzTc=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"1becf20471654f6c73023d6a3e183ec4017fcc0b"</string>
+			<string>cdhash H"df5d78580521495738eca904c650bd8ad211cd37"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
@@ -217,6 +217,24 @@
 			<key>requirement</key>
 			<string>cdhash H"a91aa60521c71dd382e53441689bc0970469be1b" or cdhash H"ca87afcd93734a35a742a2182e65dd77f0e11af4"</string>
 		</dict>
+		<key>Frameworks/media_kit_video.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			wOmaCqGFw60NYHByLXN6LmtGTxU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"c0e99a0aa185c3ad0d6070722d737a2e6b464f15"</string>
+		</dict>
+		<key>Frameworks/package_info_plus.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			VsMJxvzY1bS79yaWQdHwU48WQYo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"56c309c6fcd8d5b4bbf7269641d1f0538f16418a"</string>
+		</dict>
 		<key>Frameworks/path_provider_foundation.framework</key>
 		<dict>
 			<key>cdhash</key>
@@ -225,6 +243,24 @@
 			</data>
 			<key>requirement</key>
 			<string>cdhash H"810ee5e1821329734a23cc864e904cb6730703a7"</string>
+		</dict>
+		<key>Frameworks/screen_brightness_macos.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			p9bJmCk4BEtxeLvunRClPloPbpg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"a7d6c9982938044b7178bbee9d10a53e5a0f6e98"</string>
+		</dict>
+		<key>Frameworks/wakelock_plus.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			d5e+09l1dbx+HuaPbIR9aPl6cDo=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"7797bed3d97575bc7e1ee68f6c847d68f97a703a"</string>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>

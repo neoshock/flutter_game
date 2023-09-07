@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "57b4d81331017756bc8a182c6f5e60b11344c555789cba714d120027ce155fa9"
+build_start_time: [1694049519, 307991000]
+build_end_time: [1694049520, 647233000]
+inputs:
+  "/Users/josuealcivar/.pub-cache/hosted/pub.dev/screen_brightness_macos-0.1.0+1/macos/Classes/ScreenBrightnessMacosPlugin.swift": [1694049447, 860406134]
+  ? "/Users/josuealcivar/.pub-cache/hosted/pub.dev/screen_brightness_macos-0.1.0+1/macos/Classes/StreamHandler/BaseStreamHandler.swift"
+  : [1694049447, 859194546]
+  ? "/Users/josuealcivar/.pub-cache/hosted/pub.dev/screen_brightness_macos-0.1.0+1/macos/Classes/StreamHandler/CurrentBrightnessChangeStreamHandler.swift"
+  : [1694049447, 858004790]
